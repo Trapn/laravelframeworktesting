@@ -19,5 +19,8 @@
         "popper.js": "^1.12",
         "react": "^15.4.2",
         "react-dom": "^15.4.2"
+    },
+    "dependencies": {
+        "jquery": "^3.3.1"
     }
 }
