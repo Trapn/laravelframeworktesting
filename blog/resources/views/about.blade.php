@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 
 @section('content')
-<h1>Index</h1>
-<p>This is the first page</p>
+<h1>About</h1>
+<p>About what?</p>
 @endsection
